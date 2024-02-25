@@ -33,4 +33,15 @@
 | [Dribbble](https://dribbble.com/) | UI Design Refernces |
 | [Behance](https://www.behance.net/onboarding/adobe/) | UI Design Refernces |
 
+### Other:
+
+
+
+| Tool                                    | Description                     |
+| :-------------------------------------- | :------------------------------ |
+| [Adobe Background Remover](https://www.adobe.com/express/feature/image/remove-background) | Free Image Background Remover |
+| [RemoveBG](https://www.remove.bg/upload) | Free Image Background Remover (Image Quality is limited) |
+| [Method Vector Editor](https://editor.method.ac/) | Free SVG editor |
+| [FixThePhoto](https://fixthephoto.com/illustrator-online-editor.html/) | Free Illustrator Online Editor |
+
 
