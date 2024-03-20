@@ -12,6 +12,7 @@
 | [Material Design Icons](https://pictogrammers.com/library/mdi/) | Material Icons Library |
 | [Storyset](https://storyset.com/)|Awesome free customizable illustrations|
 | [OnlineWebFonts/Icons](https://www.onlinewebfonts.com/icon)|Free SVG Icons|
+| [File types icons ](https://www.figma.com/community/file/1113398399853613530)|figma|
 ### Vector Assets:
 
 
