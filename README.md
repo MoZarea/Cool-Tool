@@ -24,8 +24,15 @@
 | [ManyPixels](https://www.manypixels.co/gallery) | Free to use clip art images & vector illustrations |
 | [UnDraw](https://undraw.co/search) | Open source illustration for any ideas |
 
-### UI Designs:
+### Colors:
 
+
+
+| Tool                                    | Description                     |
+| :-------------------------------------- | :------------------------------ |
+| [MyColor](https://mycolor.space/) | Generate nice Color Palettes |
+| [ColorHunt](https://colorhunt.co/) | Color Palettes for Designers and Artists |
+### UI Designs:
 
 
 | Tool                                    | Description                     |
